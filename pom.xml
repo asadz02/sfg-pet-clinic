@@ -25,10 +25,10 @@
         <module>pet-clinic-web</module>
     </modules>
     <scm>
-        <connection></connection>
+        <connection>scm:git:https://github.com/asadz02/sfg-pet-clinic.git</connection>
         <developerConnection>scm:git:https://github.com/asadz02/sfg-pet-clinic.git</developerConnection>
-        <tag></tag>
-        <url></url>
+        <tag>HEAD</tag>
+        <url>https://github.com/asadz02/sfg-pet-clinic</url>
     </scm>
     <properties>
         <java.version>21</java.version>
