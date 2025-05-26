@@ -1,4 +1,4 @@
-package asad.springframework.sfgpetclinic.model;
+package asad.springframework.model;
 
 public class Person {
     private String firstName;
