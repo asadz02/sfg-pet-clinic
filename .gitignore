@@ -141,3 +141,8 @@ target/
 ######################
 .eslintcache
 
+# Maven release plugin artifacts
+release.properties
+**/target/
+
+
